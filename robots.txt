@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://elizawilcox.github.io/al-folio/sitemap.xml
+Sitemap: https://elizawilcox.github.io/sitemap.xml
